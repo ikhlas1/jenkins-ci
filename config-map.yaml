@@ -3,7 +3,7 @@ apiVersion: v1
 metadata:
   name: jenkins-slave-config
   labels:
-    app: jenkins-persistent
+    app: jenkins
     role: jenkins-slave
 name: jenkins-slave
 data:
